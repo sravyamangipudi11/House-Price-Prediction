@@ -2,7 +2,6 @@
 
 A simple and interactive web application to predict house prices using machine learning. Built with **Python**, **Streamlit**, and **scikit-learn**.
 
-![Streamlit App Screenshot](https://github.com/sravyamangipudi11/House-Price-Prediction/assets/ <!-- optional if you want to add screenshot -->
 
 ---
 
